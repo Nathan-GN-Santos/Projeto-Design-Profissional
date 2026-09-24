@@ -14,11 +14,11 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Impacto Social da Tecnologia]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[O Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologias Assistivas para Pessoas com Deficiências e Idosos.]`
 
 ### Do tema amplo ao específico
 
@@ -44,7 +44,7 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
+- [x] O tema é específico.
 - [ ] O tema é relevante.
 - [ ] O tema é viável.
 - [ ] O recorte está claro.
@@ -54,4 +54,5 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Nathan Gabriel N.S.]` | `[Criação e preenchimento do repositório no Github, Desenvolvimento do Tema]` |
+| `[Riquelme]` | `[Ideia inicial do tema]` |
