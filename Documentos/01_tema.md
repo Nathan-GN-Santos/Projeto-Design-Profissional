@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[[Nathan Gabriel](https://github.com/Nathan-GN-Santos), Riquelme, Kevin Lucas]`
+- Integrantes: [Nathan Gabriel](https://github.com/Nathan-GN-Santos), Riquelme, Kevin Lucas
 - Data: `[24/09/2026]`
 
 ## Preenchimento
