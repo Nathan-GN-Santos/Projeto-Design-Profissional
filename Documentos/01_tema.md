@@ -4,7 +4,7 @@
 
 - Grupo: `[preencher]`
 - Integrantes: [Nathan Gabriel](https://github.com/Nathan-GN-Santos), Riquelme, Kevin Lucas
-- Data: `[24/09/2026]`
+- Data: `24/09/2026`
 
 ### Área geral
 
@@ -19,12 +19,12 @@
 - Tema amplo: `Acessibilidade e Inclusão na Tecnologia da Informação`
 - Objeto estudado: `Inteligência Artificial e seu uso para Idosos`
 - Contexto ou aplicação: `Utilização de Inteligência Artificial para auxílio de pessoas idosas.`
-- Aspecto que será analisado: `Como a inteligência artificial como um todo pode ser utilizada para soluçionar problemas auxiliar idosos`
+- Aspecto que será analisado: `Como a inteligência artificial pode ser usada para solucionar problemas de compreensão e navegabilidade para pessoas idosas.`
 - O que ficará fora do estudo: `Robótica física, hardware proprietário e dispositivos eletrônicos externos (foco restrito ao ecossistema de software)`
 
 ### Justificativa
 
-`O envelhecimento populacional torna urgente a criação e um ecossistema digital acessível.. Embora a tecnologia avance rapidamente, muitas interfaces e sistemas não possuem interfaces de qualidade otimizadas pra a população idosa. Este estudo é importante pois analisa como a Inteligência Artificial pode atuar como ferramenta de acessibilidade, pra resolver problemas variados entre eles cognitivos, auditivos, visuais e compreensão.`
+`O envelhecimento populacional torna urgente a criação e um ecossistema digital acessível. Embora a tecnologia avance rapidamente, muitas interfaces e sistemas não possuem interfaces otimizadas pra a população idosa. Este estudo é importante pois analisa como a Inteligência Artificial pode atuar como ferramenta de acessibilidade, pra resolver problemas variados entre eles cognitivos, auditivos, visuais e compreensão.`
 
 ### Viabilidade
 
