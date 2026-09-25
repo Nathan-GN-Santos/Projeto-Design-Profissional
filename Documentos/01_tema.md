@@ -12,29 +12,25 @@
 
 ### Tema delimitado
 
-`O Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologias Assistivas para Pessoas com Deficiências Visuais e Auditivas.`
+`O Uso da Inteligência Artificial no Desenvolvimento de Interfaces Assistivas para Idosos.`
 
 ### Do tema amplo ao específico
 
 - Tema amplo: `Acessibilidade e Inclusão na Tecnologia da Informação`
-- Objeto estudado: `Auxílio as Pessoas com Deficiências através do uso de IA`
-- Contexto ou aplicação: `Utilização de IAs para criação e auxílio de pessoas com deficiências.`
-- Aspecto que será analisado: `Como a inteligência artificial com um todo pode ser utilizada para soluções de deficienias`
+- Objeto estudado: `Inteligência Artificial e seu uso para Idosos`
+- Contexto ou aplicação: `Utilização de Inteligência Artificial para auxílio de pessoas idosas.`
+- Aspecto que será analisado: `Como a inteligência artificial como um todo pode ser utilizada para soluçionar problemas auxiliar idosos`
 - O que ficará fora do estudo: `Robótica física, hardware proprietário e dispositivos eletrônicos externos (foco restrito ao ecossistema de software)`
 
 ### Justificativa
 
-`O envelhecimento populacional e a inclusão de pessoas com deficiência tornam urgente a criação de ecossistemas digitais acessíveis. Embora a tecnologia avance rapidamente, muitas interfaces e sistemas ainda ignoram diretrizes de acessibilidade. Este estudo é importante pois analisa como a Inteligência Artificial pode atuar como ferramenta de inclusão, transformando a engenharia de software em um vetor de impacto social positivo.`
+`O envelhecimento populacional torna urgente a criação e um ecossistema digital acessível.. Embora a tecnologia avance rapidamente, muitas interfaces e sistemas não possuem interfaces de qualidade otimizadas pra a população idosa. Este estudo é importante pois analisa como a Inteligência Artificial pode atuar como ferramenta de acessibilidade, pra resolver problemas variados entre eles cognitivos, auditivos, visuais e compreensão.`
 
 ### Viabilidade
 
 - Há artigos científicos disponíveis? `Sim`
 - O tema pode ser estudado no prazo? `Sim`
 - O grupo possui acesso às fontes necessárias? `Sim`
-
-## Produto da etapa
-
-O Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologias Assistivas para Pessoas com Deficiências e Idosos. 
 
 ## Checklist
 
@@ -48,5 +44,5 @@ O Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologi
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Nathan Gabriel N.S.]` | `[Criação e preenchimento do repositório no Github, Delimitação do Tema]` |
+| `[Nathan Gabriel N.S.]` | `[Criação e preenchimento do repositório no Github, Delimitação e Edição do Tema ]` |
 | `[Riquelme]` | `[Ideia inicial do tema]` |
