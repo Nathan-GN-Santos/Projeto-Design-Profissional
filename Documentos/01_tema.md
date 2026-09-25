@@ -18,9 +18,9 @@
 
 - Tema amplo: `Acessibilidade e Inclusão na Tecnologia da Informação`
 - Objeto estudado: `Inteligência Artificial e seu uso para Idosos`
-- Contexto ou aplicação: `Utilização de Inteligência Artificial para auxílio de pessoas idosas.`
+- Contexto ou aplicação: `Utilização de Inteligência Artificial para auxiliar idosos no uso em aplicativos. .`
 - Aspecto que será analisado: `Como a inteligência artificial pode ser usada para solucionar problemas de compreensão e navegabilidade para pessoas idosas.`
-- O que ficará fora do estudo: `Robótica física, hardware proprietário e dispositivos eletrônicos externos (foco restrito ao ecossistema de software)`
+- O que ficará fora do estudo: `Robótica física, hardware e dispositivos eletrônicos externos (foco restrito ao ecossistema de software)`
 
 ### Justificativa
 
@@ -37,8 +37,8 @@
 - [x] O tema é específico.
 - [x] O tema é relevante.
 - [x] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O recorte está claro.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
